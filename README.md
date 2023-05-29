@@ -1,4 +1,6 @@
 # Sample Maven Project
+# Sample Maven Project
+# Sample Maven Project
 
 Sample project for conventional commits demo
 
